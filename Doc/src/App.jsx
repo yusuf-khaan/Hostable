@@ -1,7 +1,7 @@
 import React from 'react';
 import Backgrounds from './components/Background';
 import Foreground from './components/Foreground';
-import Card from './components/card';
+import Card from './components/Card';
 
 
 function App() {
